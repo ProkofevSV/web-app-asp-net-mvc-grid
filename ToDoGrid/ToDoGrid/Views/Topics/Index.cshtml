@@ -1,0 +1,31 @@
+﻿@using ToDoGrid.Models
+@using ToDoGrid.Extensions
+@model IQueryable<Topic>
+
+@{
+    string controllerName = "Topics";
+}
+<br />
+<h1><b>Темы</b></h1>
+
+<div class="btn-create" style="display: flex;">
+    @Html.ActionLink("Добавить запись", "Create", controllerName, null, new { @class = "btn btn-outline-dark" })
+</div>
+<br />
+
+@(Html
+    .Grid(Model)
+    .Build(columns =>
+    {
+        columns.Add(model => model.Name).Titled("Тема");
+
+        columns.Add(model => Html.Partial("GridCellAction", new GridCellActionViewModel() {Id = model.Id, ControllerName = controllerName })).Css("grid-cell-action").Titled("Действия");
+    })
+    .UsingFilterMode(GridFilterMode.Row)
+    .Empty("No data found")
+    .Filterable()
+    .Sortable()
+    .Pageable()
+)
+
+

@@ -1,0 +1,15 @@
+﻿@using ToDoGrid.Models
+@model Performer
+
+<h2>Исполнитель</h2>
+<br />
+<legend><h3>Пожалуйста, заполните необходимые поля</h3></legend>
+
+@using (Html.BeginForm("Edit", "Performers", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary()
+    @Html.EditorForModel()
+
+    <input type="submit" value="Сохранить" class="btn btn-secondary" />
+    @Html.ActionLink("Отменить", "Index", "Performers", null, new { @class = "btn btn-danger" })
+}

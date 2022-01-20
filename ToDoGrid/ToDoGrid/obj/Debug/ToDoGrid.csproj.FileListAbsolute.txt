@@ -1,0 +1,188 @@
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ToDoGrid.dll.config
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ToDoGrid.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ToDoGrid.pdb
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\csc.exe
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\csc.exe.config
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\csc.rsp
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\csi.exe
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\csi.exe.config
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\csi.rsp
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.Managed.Core.targets
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.AppContext.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Collections.Immutable.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Console.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Globalization.Calendars.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.IO.Compression.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.IO.FileSystem.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Net.Http.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Net.Sockets.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Reflection.Metadata.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.ValueTuple.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Xml.XmlDocument.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Xml.XPath.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\vbc.exe
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\vbc.exe.config
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\vbc.rsp
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\VBCSCompiler.exe
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\roslyn\VBCSCompiler.exe.config
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\Antlr3.Runtime.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\EntityFramework.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\EntityFramework.SqlServer.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\Microsoft.Web.Infrastructure.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\Newtonsoft.Json.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.Helpers.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.Mvc.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.Optimization.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.Razor.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.Deployment.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.Razor.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\WebGrease.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\EntityFramework.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\EntityFramework.SqlServer.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.Helpers.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.Mvc.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.Optimization.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.Razor.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.Deployment.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.Razor.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\Newtonsoft.Json.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\Antlr3.Runtime.pdb
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ru\System.Web.Helpers.resources.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ru\System.Web.Mvc.resources.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ru\System.Web.Optimization.resources.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ru\System.Web.Razor.resources.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ru\System.Web.WebPages.resources.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.csprojAssemblyReference.cache
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.csproj.CoreCompileInputs.cache
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.csproj.CopyComplete
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.pdb
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.Migrations.init1.resources
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.csproj.GenerateResource.cache
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\bin\Mvc.Grid.Core.dll
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.Migrations.grid.resources
+D:\InternetTechnology\semen\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.Migrations.grid2.resources
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ToDoGrid.dll.config
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ToDoGrid.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ToDoGrid.pdb
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\csc.exe
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\csc.exe.config
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\csc.rsp
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\csi.exe
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\csi.exe.config
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\csi.rsp
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.Managed.Core.targets
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.AppContext.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Collections.Immutable.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Console.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Globalization.Calendars.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.IO.Compression.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.IO.FileSystem.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Net.Http.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Net.Sockets.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Reflection.Metadata.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.ValueTuple.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Xml.XmlDocument.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Xml.XPath.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\vbc.exe
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\vbc.exe.config
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\vbc.rsp
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\VBCSCompiler.exe
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\roslyn\VBCSCompiler.exe.config
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\Antlr3.Runtime.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\EntityFramework.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\EntityFramework.SqlServer.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\Microsoft.Web.Infrastructure.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\Mvc.Grid.Core.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\Newtonsoft.Json.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.Helpers.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.Mvc.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.Optimization.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.Razor.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.Deployment.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.Razor.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\WebGrease.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\EntityFramework.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\EntityFramework.SqlServer.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.Helpers.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.Mvc.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.Optimization.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.Razor.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.Deployment.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\System.Web.WebPages.Razor.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\Newtonsoft.Json.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\Antlr3.Runtime.pdb
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ru\System.Web.Helpers.resources.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ru\System.Web.Mvc.resources.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ru\System.Web.Optimization.resources.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ru\System.Web.Razor.resources.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ru\System.Web.WebPages.resources.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.csproj.AssemblyReference.cache
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.csproj.CoreCompileInputs.cache
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.csproj.CopyComplete
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.dll
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.pdb
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.Migrations.INIT.resources
+D:\институт\4 курс\кожан\Grid\ToDoGrid\ToDoGrid\obj\Debug\ToDoGrid.csproj.GenerateResource.cache

@@ -1,0 +1,51 @@
+﻿@using ToDoGrid.Models
+@using ToDoGrid.Extensions
+@model IQueryable<Task>
+
+@{
+    string controllerName = "Tasks";
+}
+<br />
+<h1><b>Список дел</b></h1>
+
+<div class="btn-create" style="display: flex;">
+    @Html.ActionLink("Добавить запись", "Create", controllerName, null, new { @class = "btn btn-outline-dark" })
+</div>
+<br />
+
+@(Html
+    .Grid(Model)
+    .Build(columns =>
+    {
+        columns.Add(model => model.Importance).Titled("Важность");
+        columns.Add(model => string.Join(", ", model.Topics.Select(x => $"{x.Name}"))).Titled("Тема(ы)");
+        columns.Add(model => string.Format("<a href='/{0}/Detail/{1}' class='text-decoration-none'>{2}</a>", controllerName, model.Id, model.Name)).Encoded(false).Titled("Задача");
+        columns.Add(model => string.Join(", ", model.DayOfWeeks.Select(x => $"{x.DayOfWeekName}"))).Titled("День(и) недели");
+        columns.Add(model => model.Performer.Name).Titled("Исполнитель");
+        columns.Add(model => string.Format("<img src='/{0}/GetImage/{1}' style='max-width: 100px; max-height: 200px;' />", "Performers", model.PerformerId)).Encoded(false).Titled("Фото Исполнителя");                     
+
+        columns.Add(model => Html.Partial("GridCellAction", new GridCellActionViewModel() {Id = model.Id, ControllerName = controllerName })).Css("grid-cell-action").Titled("Действия");
+    })
+    .UsingFilterMode(GridFilterMode.Row)
+    .Empty("No data found")
+    .Filterable()
+    .Sortable()
+    .Pageable()
+)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<footer>
+    <dl>
+        <dt>Дополнительная информация:</dt>
+    </dl>
+    <ol type="I">
+        <li><h6><i>Данная работа сделана в ознакомительных целях</i></h6></li>
+        <li><h6><i>Все люди вымышлены, а совпадения случайны</i></h6></li>
+    </ol>
+
+</footer>

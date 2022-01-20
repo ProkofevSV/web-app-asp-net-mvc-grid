@@ -1,0 +1,34 @@
+﻿@using ToDoGrid.Models
+@using ToDoGrid.Extensions
+@model IQueryable<Performer>
+
+@{
+    string controllerName = "Performers";
+}
+<br />
+<h1><b>Исполнители</b></h1>
+
+<div class="btn-create" style="display: flex;">
+    @Html.ActionLink("Добавить запись", "Create", controllerName, null, new { @class = "btn btn-outline-dark" })
+</div>
+<br />
+
+@(Html
+    .Grid(Model)
+    .Build(columns =>
+    {
+        columns.Add(model => model.Name).Titled("Исполнитель");
+        columns.Add(model => model.Sex).Titled("Пол");
+        columns.Add(model => string.Format("<img src='/{0}/GetImage/{1}' style='max-width: 100px; max-height: 200px;' />", controllerName, model.Id)).Encoded(false).Titled("Фото Исполнителя");
+
+        columns.Add(model => Html.Partial("GridCellAction", new GridCellActionViewModel() {Id = model.Id, ControllerName = controllerName })).Css("grid-cell-action").Titled("Действия");
+    })
+    .UsingFilterMode(GridFilterMode.Row)
+    .Empty("No data found")
+    .Filterable()
+    .Sortable()
+    .Pageable()
+)
+
+
+

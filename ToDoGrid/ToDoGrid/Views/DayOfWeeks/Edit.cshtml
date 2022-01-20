@@ -1,0 +1,15 @@
+﻿@using ToDoGrid.Models
+@model ToDoGrid.Models.DayOfWeek
+
+<h2>День недели</h2>
+<br />
+<legend><h3>Пожалуйста, заполните необходимые поля</h3></legend>
+
+@using (Html.BeginForm("Edit", "DayOfWeeks", FormMethod.Post))
+{
+    @Html.ValidationSummary()
+    @Html.EditorForModel()
+
+    <input type="submit" value="Сохранить" class="btn btn-secondary" />
+    @Html.ActionLink("Отменить", "Index", "DayOfWeeks", null, new { @class = "btn btn-danger" })
+}

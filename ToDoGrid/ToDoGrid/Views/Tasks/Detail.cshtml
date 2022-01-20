@@ -1,0 +1,46 @@
+﻿@using ToDoGrid.Models
+@model Task
+
+<br />
+<table class="table align-middle " style="text-align: center; --bs-table-bg: #d7bedc00 !important;">
+    <tbody>
+        <tr>
+
+            <td>
+                <h1><u>@Model.Name</u></h1>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <h3>Описание</h3>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p>
+                    <span><b>Что нужно сделать?</b></span>
+                    <span><pre style="width: auto; white-space: pre-wrap;">@Model.Description</pre></span>
+                </p>
+                <p>
+                    <span><b>Примерные сроки выполнения</b></span>
+                    <span><pre style="width: auto; white-space: pre-wrap;">@Model.Time</pre></span>
+                </p>
+
+
+
+
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+
+
+@Html.ActionLink("На главную", "Index", "Tasks", null, new { @class = "btn btn-outline-dark" })
+<br>
+
+<hr />
+
+
+<sub><i>Описание может быть не точным</i></sub>
